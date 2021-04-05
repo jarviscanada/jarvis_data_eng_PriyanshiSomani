@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51ae6112-bf80-4bd6-a241-950099578cd8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/linux_sql/scripts/host_info.sh" beforeDir="false" afterPath="$PROJECT_DIR$/linux_sql/scripts/host_info.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux_sql/scripts/host_usage.sh" beforeDir="false" afterPath="$PROJECT_DIR$/linux_sql/scripts/host_usage.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux_sql/sql/ddl.sql" beforeDir="false" afterPath="$PROJECT_DIR$/linux_sql/sql/ddl.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux_sql/sql/queries.sql" beforeDir="false" afterPath="$PROJECT_DIR$/linux_sql/sql/queries.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
