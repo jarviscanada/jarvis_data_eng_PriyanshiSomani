@@ -16,7 +16,7 @@ FROM
 	INNER JOIN 	sample_usage
 	USING 		(host_info_id)) AS temp;
 
--- list the host number of the hosts that failed to insert at least 3 entries to the host_usage table every 5 mintues
+
 SELECT 	host_name, the_count
 FROM
 	(SELECT 	host_name, count(per5) as the_count
