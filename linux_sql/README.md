@@ -40,6 +40,9 @@ The queries.sql using DML SQL queries was created to retrieve information from t
 
 ## Architecture
 
+![arch](https://user-images.githubusercontent.com/60118930/113667571-fd05e600-967e-11eb-8e00-09a356272213.PNG)
+
+
 ## Script
 
 ### 1.psql_docker.sh 
