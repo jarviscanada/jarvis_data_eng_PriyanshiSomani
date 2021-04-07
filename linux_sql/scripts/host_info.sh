@@ -37,6 +37,3 @@ VALUES ('$hostname', $cpu_number, '$cpu_architecture', '$cpu_model', $cpu_mhz, $
 #insert data in the host_agent database
 psql -h $psql_host -p psql_port -d $db_name -U $psql_user -c "$insert_stmt"
 $?
-
-
-
