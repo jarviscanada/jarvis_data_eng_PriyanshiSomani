@@ -30,4 +30,3 @@ CREATE TABLE if NOT EXISTS PUBLIC.host_info
   disk_available INT NOT NULL
 
   );
-
